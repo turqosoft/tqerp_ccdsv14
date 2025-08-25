@@ -58,18 +58,6 @@
     },
     {
         "doctype": "Custom Field",
-        "dt": "Quotation Item",
-        "module": "Tqerp Ccdsv14",
-        "name": "Numbers in QOT",
-        "in_list_view": 1,
-        "default": 1,
-        "fieldname": "numbers",
-        "fieldtype": "Float",
-        "label": "Number",
-        "insert_after": "nil_rated"
-    },
-    {
-        "doctype": "Custom Field",
         "dt": "Item",
         "module": "Tqerp Ccdsv14",
         "name": "MRP in item",
