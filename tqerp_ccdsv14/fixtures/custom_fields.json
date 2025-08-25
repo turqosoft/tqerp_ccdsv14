@@ -58,16 +58,6 @@
     },
     {
         "doctype": "Custom Field",
-        "dt": "Item",
-        "module": "Tqerp Ccdsv14",
-        "name": "MRP in item",
-        "fieldname": "mrp",
-        "fieldtype": "Data",
-        "label": "MRP",
-        "insert_after": "is_fixed_asset"
-    },
-    {
-        "doctype": "Custom Field",
         "dt": "Material Request Item",
         "module": "Tqerp Ccdsv14",
         "name": "Supplier",
