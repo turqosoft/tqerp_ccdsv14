@@ -33,16 +33,6 @@
     },
     {
         "doctype": "Custom Field",
-        "dt": "Quotation",
-        "module": "Tqerp Ccdsv14",
-        "name": "Exclusions in QOT",
-        "fieldname": "exclusions",
-        "fieldtype": "Text",
-        "label": "Exclusions",
-        "insert_after": "incoterm"
-    },
-    {
-        "doctype": "Custom Field",
         "dt": "Quotation Item",
         "module": "Tqerp Ccdsv14",
         "name": "Service Info in QOT",
