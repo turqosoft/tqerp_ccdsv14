@@ -33,16 +33,6 @@
     },
     {
         "doctype": "Custom Field",
-        "dt": "Lead",
-        "module": "Tqerp Ccdsv14",
-        "name": "Remarks",
-        "fieldname": "remarks",
-        "fieldtype": "Text",
-        "label": "Remarks",
-        "insert_after": "property_location"
-    },
-    {
-        "doctype": "Custom Field",
         "dt": "Quotation",
         "module": "Tqerp Ccdsv14",
         "name": "Exclusions in QOT",
